@@ -1,0 +1,4 @@
+gcc Prova_aleatori.c -o Prova_aleatori.exe
+
+
+.\Prova_aleatori.exe
